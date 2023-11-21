@@ -4,7 +4,7 @@
 
 Концептуальная модель- https://drive.google.com/drive/u/0/folders/1vAeqXkpt_FaP2R2pM9Ec_YmLZzZfxVPK
 
-https://drive.google.com/file/d/129a0ztZGv6Wl5k0-G9wAjnRj0qzceum5/view?usp=sharing
+Use and components- https://drive.google.com/file/d/129a0ztZGv6Wl5k0-G9wAjnRj0qzceum5/view?usp=sharing
 
 
 
